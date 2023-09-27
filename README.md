@@ -1,1 +1,0 @@
-# Guia6-Compl

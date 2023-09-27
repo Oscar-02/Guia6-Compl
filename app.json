@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Guia6-Compl",
+    "slug": "Guia6-Compl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Guia6-Compl"
+}
